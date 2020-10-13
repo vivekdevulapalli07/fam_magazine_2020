@@ -10,4 +10,6 @@ git checkout -b "new branch name"
 
 git status
 
-git pull  
+git pull origin master	 #to update your branch with the master branch
+
+git push -u origin <new branch name>
