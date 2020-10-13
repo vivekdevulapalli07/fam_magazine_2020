@@ -1,10 +1,14 @@
 git clone 'https link'
 
+If you make changes in master branch: add, commit, push
+
 git add .
 
 git commit -m "commit message"
 
 git push origin master
+
+If you crerate a slave branch: update your master branch, add, commit, merge, pull (request)
 
 git checkout -b "new branch name"
 
